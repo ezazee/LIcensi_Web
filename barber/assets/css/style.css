@@ -2830,16 +2830,16 @@ hr {
 }
 
 .slider-area2 {
-    background-image: url(../img/hero/bg.jpg);
+    background-image: url(../img/Lisenci/112.jpeg);
     background-repeat: no-repeat;
     background-size: cover
 }
 
 .slider-area {
     margin-top: -1px;
-    background-image: url(../img/hero/bg.jpg);
+    background-image: url(../img/Lisenci/112.jpeg);
     background-repeat: no-repeat;
-    background-position: top center;
+    background-position: top ;
     background-size: cover;
     background-attachment: fixed
 }
